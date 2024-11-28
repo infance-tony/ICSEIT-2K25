@@ -52,4 +52,4 @@ To run this website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/icseit-2k25-website.git
+   git clone https://github.com/InfanceTony-cs22/icseit-2k25-website.git
