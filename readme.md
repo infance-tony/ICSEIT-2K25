@@ -51,6 +51,7 @@ The website is designed to provide information about the conference and is struc
 To run this website locally, follow these steps:
 
 
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/InfanceTony-cs22/icseit-2k25-website.git
